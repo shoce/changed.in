@@ -1,3 +1,3 @@
-module src.iriy.de/changed.in
+module github.com/shoce/changed.in
 
-go 1.17
+go 1.21
